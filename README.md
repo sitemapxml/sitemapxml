@@ -10,4 +10,4 @@ Hi 👋, if you want to contact me, you can send me email at viktor.pavlovic[at]
 ### New projects (still in beta)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sitemapxml&repo=makedb)](https://github.com/sitemapxml/makedb) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sitemapxml&repo=backup-alpha)](https://github.com/sitemapxml/backup-alpha) 
+

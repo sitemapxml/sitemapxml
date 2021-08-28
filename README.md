@@ -1,4 +1,4 @@
-Hi 👋, if you want to contact me, you can send me email at viktor.pavlovic[at]protonmail.com
+Hi 👋, if you want to contact me, you can send me email to viktor.pavlovic[at]protonmail.com
 <!--
 <a href="https://github.com/sitemapxml">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sitemapxml&show_icons=true&theme=nord&include_all_commits=true&bg_color=fff&title_color=000&text_color=000&icon_color=0969da)](https://github.com/sitemapxml" />

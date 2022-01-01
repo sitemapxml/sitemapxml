@@ -12,6 +12,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sitemapxml&repo=icmpd)](https://github.com/sitemapxml/icmpd)
 
 <div style="width:1px;">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sitemapxml&repo=icmpd)](https://github.com/sitemapxml/icmpd)
+
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sitemapxml&repo=backup-alpha)](https://github.com/sitemapxml/backup-alpha)

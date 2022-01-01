@@ -11,13 +11,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sitemapxml&repo=icmpd)](https://github.com/sitemapxml/icmpd)
 
-<div style="display:inline-block;">
+<div style="display:inline;">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sitemapxml&repo=icmpd)](https://github.com/sitemapxml/icmpd)
 
 </div>
 
-<div style="display:inline-block;">
+<div style="display:inline;">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sitemapxml&repo=backup-alpha)](https://github.com/sitemapxml/backup-alpha)
 

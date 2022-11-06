@@ -7,7 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitemapxml&langs_count=7&theme=nord&&bg_color=fff&title_color=000&text_color=000&exclude_repo=password-generator" />
 </a>
 -->
-### New projects (still in beta)
-
+### New projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sitemapxml&repo=icmpd)](https://github.com/sitemapxml/icmpd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sitemapxml&repo=readme)](https://github.com/sitemapxml/readme)
